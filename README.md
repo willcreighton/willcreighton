@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @willcreighton
-- 👀 I’m interested in video game creation
-- 🌱 I’m currently studying game design & development at RIT
+- 👀 I’m passionate about creating video games
+- 🌱 I’m currently studying Game Design and Development at RIT
 - 💞️ One day, I hope to run a successful game business
 - 📫 To reach me, you can DM my Discord: Cypraith#9124
 
