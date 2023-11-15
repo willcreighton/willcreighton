@@ -22,8 +22,3 @@ In my spare time, I enjoy:
 📧 williamcr810@gmail.com
 
 Thanks for stopping by! Let's build something amazing together. 🚀
-
-<!---
-willcreighton/willcreighton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
