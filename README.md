@@ -19,6 +19,8 @@ In my spare time, I enjoy:
 
 ## Let's Connect!
 
-📧 williamcr810@gmail.com
+📧 Email: williamcr810@gmail.com
+🌐 Portfolio: https://www.willcreighton.dev
+🔗 LinkedIn: https://www.linkedin.com/in/william-creighton
 
 Thanks for stopping by! Let's build something amazing together. 🚀
