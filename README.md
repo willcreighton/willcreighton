@@ -1,6 +1,6 @@
-# Creative Engineer | Game Design Enthusiast | Pushing Innovation
+# Software Developer | Game Designer | Always Pushing Innovation
 
-Hey there! 👋 I'm Will Creighton, a passionate Software Engineer with a focus on creating efficient client-oriented visuals and a love for the world of game development.
+Hey there! 👋 I'm Will Creighton, a passionate Software Developer with a focus on creating efficient client-oriented visuals and a love for the world of game development.
 
 ## About Me
 
