@@ -1,6 +1,6 @@
-# Software Developer | Game Designer | Always Pushing Innovation
+# Developer | Game Designer | Always Pushing Innovation
 
-Hey there! 👋 I'm Will Creighton, a passionate Software Developer with a focus on creating efficient client-oriented visuals and a love for the world of game development.
+Hey there! 👋 I'm Will Creighton, a passionate Developer with a focus on creating efficient client-oriented visuals and a love for the world of game development.
 
 ## About Me
 
@@ -19,8 +19,8 @@ In my spare time, I enjoy:
 
 ## Let's Connect!
 
-- 📧 Email: williamcr810@gmail.com
-- 🌐 Portfolio: https://www.willcreighton.dev
-- 🔗 LinkedIn: https://www.linkedin.com/in/william-creighton
+- 📧 Email:      williamcr810@gmail.com
+- 🌐 Portfolio:  https://www.willcreighton.dev
+- 🔗 LinkedIn:   https://www.linkedin.com/in/william-creighton
 
 Thanks for stopping by! Let's build something amazing together. 🚀
