@@ -20,7 +20,7 @@ In my spare time, I enjoy:
 ## Let's Connect!
 
 - 📧 Email:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;williamcr810@gmail.com
-- 🌐 Portfolio:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.willcreighton.dev](https://www.willcreighton.dev){:target="_blank"}
-- 🔗 LinkedIn:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/william-creighton](https://www.linkedin.com/in/william-creighton){:target="_blank"}
+- 🌐 Portfolio:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.willcreighton.dev](https://www.willcreighton.dev)
+- 🔗 LinkedIn:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/william-creighton](https://www.linkedin.com/in/william-creighton)
       
 Thanks for stopping by! Let's build something amazing together. 🚀
