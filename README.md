@@ -1,13 +1,13 @@
-# Developer | Game Designer | Always Pushing Innovation
+# Developer | Game Designer | Innovator
 
-Hey there! 👋 I'm Will Creighton, a passionate Developer with a focus on creating efficient client-oriented visuals and a love for the world of game development.
+Hey there! 👋 I'm Will Creighton, a passionate Developer with a focus on creating efficient, visually stunning experiences and a love for the world of game development.
 
 ## About Me
 
 - 💻 Experienced Programmer and Game Designer, merging technical expertise with creative innovation
 - 🎓 Undergraduate student at Rochester Institute of Technology (RIT), majoring in Game Design and Development
 - 🕹️ Created multiple games in my free time, accumulating over **10 million** total plays
-- 📈 Aiming to graduate in May 2025
+- 📈 Aiming to graduate in Spring 2025
 
 ## Hobbies
 
@@ -15,6 +15,7 @@ In my spare time, I enjoy:
 
 - 🥋 Mixed Martial Arts
 - 📚 Reading
+- 🍿 Anime
 - 🎮 Game Development
 
 ## Let's Connect!
