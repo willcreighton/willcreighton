@@ -1,6 +1,6 @@
 # Developer | Game Designer | Innovator
 
-Hey there! 👋 I'm Will Creighton, a passionate Developer with a focus on creating efficient, visually stunning experiences and a love for the world of game development.
+Hey there! 👋 I'm Will Creighton, a driven Developer with a focus on creating efficient user-centric experiences, and a love for the world of game development.
 
 ## About Me
 
