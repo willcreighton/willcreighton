@@ -1,6 +1,6 @@
 # Developer | Game Designer | Innovator
 
-Hey there! 👋 I'm Will Creighton, a driven Developer focused on creating efficient user-centric experiences, and a love for the world of game development.
+Hey there! 👋 I'm Will Creighton, a driven Developer focused on creating efficient user-centric experiences, and a love for the world of game creation.
 
 ## About Me
 
@@ -26,4 +26,4 @@ In my spare time, I enjoy:
 - 🌐 Portfolio:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.willcreighton.dev](https://www.willcreighton.dev)
 - 🔗 LinkedIn:&nbsp;&nbsp;&nbsp;&nbsp;[https://www.linkedin.com/in/william-creighton](https://www.linkedin.com/in/william-creighton)
       
-Thanks for stopping by! Let's build something amazing together.
+Thank you for stopping by!
