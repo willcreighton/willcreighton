@@ -7,7 +7,7 @@ Hey there! 👋 I'm Will Creighton, a driven Developer focused on creating effic
 - 💻 Experienced Programmer and Game Designer, merging technical expertise with creative innovation
 - 🎓 Student at Rochester Institute of Technology (RIT)
     - *Major* in Game Design and Development
-    - *Immersion* in Advertising and Public Relations
+    - *Minor* in Advertising and Public Relations
 - 🕹️ Created and launched multiple games, accumulating over **10 million** total plays
 - 📈 Aiming to graduate in Spring 2025
 
